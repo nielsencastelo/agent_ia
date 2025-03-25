@@ -1,4 +1,4 @@
-# ✈️ Travel Agent com Ollama + DuckDuckGo + Llama3
+# ✈️ Travel Agent com Ollama + DuckDuckGo
 
 Este projeto é um agente local em Python capaz de buscar informações sobre destinos de viagem usando o DuckDuckGo, extrair conteúdo de páginas relevantes e gerar um **resumo inteligente** com ajuda de um LLM local, como o `llama3`, executado via [Ollama](https://ollama.com/).
 
